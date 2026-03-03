@@ -195,6 +195,8 @@ Bots
 Repos
 [![AION BRAIN](https://img.shields.io/badge/AION_BRAIN-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/AION-BRAIN)
 [![SHELDON.K.SALMON](https://img.shields.io/badge/SHELDON.K.SALMON-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/SHELDON.K.SALMON)
+[![Whitepaper Blueprint](https://img.shields.io/badge/Whitepaper_Blueprint-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/Whitepaper-Blueprint)
+[![Shared Cognitive Map — AGI](https://img.shields.io/badge/Shared_Cognitive_Map-AGI-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/AGI)
 
 Community
 [![Hacker News Submissions](https://img.shields.io/badge/Hacker_News_Submissions-1E3A8A?style=flat-square&logo=ycombinator&logoColor=FFFFFF)](https://news.ycombinator.com/submitted?id=sheldonksalmon)

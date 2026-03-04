@@ -2,7 +2,7 @@
 
 # Sheldon K. Salmon
 
-### *AI Reliability Architect · AI Certainty Engineer · Creator of the AION Constitutional Stack*
+### *AI Reliability Architect · AI Certainty Engineer ·  AGI Architect · Creator of the AION Constitutional Stack*
 
 [![Role](https://img.shields.io/badge/Role-AI%20Reliability%20Architect-6A0DAD?style=for-the-badge&logoColor=white)]()
 [![Stack](https://img.shields.io/badge/Stack-AION%20Constitutional%20Framework-000000?style=for-the-badge&logoColor=white)]()

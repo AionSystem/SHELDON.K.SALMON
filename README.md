@@ -186,16 +186,51 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 
 <div align="center">
 
+**Contact**
+
 [![Consulting Inquiries](https://img.shields.io/badge/Consulting_Inquiries-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aionsystem@outlook.com)
+
+**Sites**
 
 [![Sheldon K. Salmon](https://img.shields.io/badge/Sheldon_K._Salmon-1E3A8A?style=flat-square&logoColor=white)](https://sheldonksalmon.carrd.co)
 [![AION Systems](https://img.shields.io/badge/AION_Systems-1E3A8A?style=flat-square&logoColor=white)](https://aionsystems.carrd.co)
-[![Medium](https://img.shields.io/badge/Friday_Salmon_Certainty_Report-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sheldonksalmon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheldon-k-salmon-b0901b378/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OCEAN_AION)
+
+**Publishing**
+
+[![Medium Profile](https://img.shields.io/badge/Medium_Profile-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/sheldonksalmon)
+[![Medium Articles](https://img.shields.io/badge/Medium_Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sheldonksalmon)
+
+**Bots**
 
 [![PSA Grader](https://img.shields.io/badge/PSA_Grader-1E3A8A?style=flat-square&logoColor=white)](https://poe.com/PSA-Grader)
 [![ANCHOR Reliability](https://img.shields.io/badge/ANCHOR_Reliability-1E3A8A?style=flat-square&logoColor=white)](https://poe.com/ANCHOR-Reliability)
+
+**Brain Repos**
+
+[![THALAMUS](https://img.shields.io/badge/THALAMUS-FFD700?style=flat-square&logo=github&logoColor=black)](https://github.com/AionSystem/THALAMUS)
+[![AGI](https://img.shields.io/badge/AGI-e94560?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/AGI)
+[![AION-BRAIN](https://img.shields.io/badge/AION--BRAIN-6b3fa0?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/AION-BRAIN)
+[![OCEAN-BRAIN](https://img.shields.io/badge/OCEAN--BRAIN-1a6b9a?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/OCEAN-BRAIN)
+[![HIPPOCAMPUS](https://img.shields.io/badge/HIPPOCAMPUS-2d6a4f?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/HIPPOCAMPUS)
+[![AMYGDALA](https://img.shields.io/badge/AMYGDALA-c0392b?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/AMYGDALA)
+[![SYNARA](https://img.shields.io/badge/SYNARA-9b59b6?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/SYNARA)
+[![CEREBELLUM](https://img.shields.io/badge/CEREBELLUM-16213e?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/CEREBELLUM)
+[![PREFRONTAL](https://img.shields.io/badge/PREFRONTAL-0f3460?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/PREFRONTAL)
+
+**Other Repos**
+
+[![SHELDON.K.SALMON](https://img.shields.io/badge/SHELDON.K.SALMON-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/SHELDON.K.SALMON)
+[![Whitepaper Blueprint](https://img.shields.io/badge/Whitepaper_Blueprint-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/Whitepaper-Blueprint)
+
+**Community**
+
+[![Hacker News](https://img.shields.io/badge/Hacker_News-FF6600?style=flat-square&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/submitted?id=sheldonksalmon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheldon-k-salmon-b0901b378/)
+[![X](https://img.shields.io/badge/X_Profile-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OCEAN_AION)
+
+**Support**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sheldonksalmon)
 
 </div>
 

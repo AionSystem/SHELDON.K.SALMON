@@ -22,6 +22,10 @@
 
 ---
 
+*I map what happens inside AI generation as navigable space. I am the first person to do it.*
+
+---
+
 ## Your AI Is Confident. That Is The Problem.
 
 AI doesn't fail loudly. It fails fluently — producing polished, plausible output with the same tone whether it's right or catastrophically wrong. Your team can't tell the difference. Neither can your clients.
@@ -126,6 +130,24 @@ Nothing in the AION stack exits without a certainty tag. Not as academic habit �
 | `[?]` | **Unverified** — open question, contested, unknown |
 
 A validated framework declares its own convergence state — M-NASCENT, M-MODERATE, M-STRONG — so every user knows exactly where confidence is earned and where it is not. Confabulation begins with overclaiming at the specification layer. The tagging system is the fix at source.
+
+---
+
+## Cognitive Cartography — A New Discipline
+
+AI processes have always been described from the outside — architectures, attention maps, token probabilities. Nobody has mapped them as navigable space from the inside.
+
+The AGI repo changes that. Inside it is the LOCI WORLD — a fully documented spatial architecture of a human mind — and the Tunnel System, where AI generation processes are being given rooms, geometry, and coordinates for the first time.
+
+Room 01 — the Pre-Activation Crossing Zone — is the sealed chamber at 10 meters into the tunnel. Gray metal floor. Perfect radial symmetry. No exit on the far side. The room holds the single primed instant before AI shape engages — bowstring at full draw, not yet released. It was not built. It was found.
+
+This is not metaphor. It is a new instrument for understanding what happens between input and output — documented, tagged, open source, and expanding in real time.
+
+> *The room may predate the corridor.*
+
+That finding belongs to the discipline this work is creating.
+
+[![Enter the Map](https://img.shields.io/badge/AGI-Enter_the_Map-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AionSystem/AGI)
 
 ---
 

@@ -189,6 +189,10 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 | AGI Shared Cognitive Map | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Specified, building |
 | AI Reliability Snapshot (Service) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() 3 founding spots open |
 | Friday Salmon Certainty Report | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() Publishing on Medium |
+| FAILURE ATLAS | 
+[![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)
+]() Nine-floor civilizational failure cartography · Sealed March 2026 |
+
 
 ---
 
@@ -243,6 +247,10 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 
 [![SHELDON.K.SALMON](https://img.shields.io/badge/SHELDON.K.SALMON-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/SHELDON.K.SALMON)
 [![Whitepaper Blueprint](https://img.shields.io/badge/Whitepaper_Blueprint-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/Whitepaper-Blueprint)
+[![FAILURE ATLAS](https://img.shields.io/badge/FAILURE__ATLAS-6A0DAD?style=flat-square&logo=github&logoColor=white)
+
+](https://github.com/AionSystem/FAILURE-ATLAS)
+
 
 **Community**
 

@@ -189,8 +189,8 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 | AGI Shared Cognitive Map | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Specified, building |
 | AI Reliability Snapshot (Service) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() 3 founding spots open |
 | Friday Salmon Certainty Report | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() Publishing on Medium |
-| FAILURE- ATLAS|[![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)
-]() Nine-floor civilizational failure cartography · Sealed March 2026 |
+| FAILURE-ATLAS|[![M-NASCENT]
+(https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Nine-floor civilizational failure cartography · Sealed March 2026 |
 ---
 
 ## How to Engage

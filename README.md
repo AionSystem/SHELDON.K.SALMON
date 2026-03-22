@@ -9,6 +9,8 @@
 [![Stack](https://img.shields.io/badge/Stack-AION_Constitutional_Framework-000000?style=for-the-badge&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-Active_·_March_2026-00C853?style=for-the-badge&logoColor=white)]()
 
+[![ORCID — Sheldon K. Salmon](https://img.shields.io/badge/ORCID-0009--0005--8057--5115-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8057-5115)
+
 [![Frameworks](https://img.shields.io/badge/Frameworks-60%2B-4B0082?style=for-the-badge&logoColor=white)]()
 [![FCL Entries](https://img.shields.io/badge/FCL_Entries-75%2B-FF6B00?style=for-the-badge&logoColor=white)]()
 [![Files](https://img.shields.io/badge/Files-2040%2B-1A1A2E?style=for-the-badge&logoColor=white)]()

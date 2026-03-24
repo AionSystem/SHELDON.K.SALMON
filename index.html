@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>Session Secret Generator</title></head>
+<body>
+<button onclick="generate()">Generate Session Secret</button>
+<p id="result"></p>
+<script>
+function generate() {
+  const bytes = crypto.getRandomValues(new Uint8Array(32));
+  const hex = Array.from(bytes, b => b.toString(16).padStart(2,'0')).join('');
+  document.getElementById('result').innerText = hex;
+  navigator.clipboard.writeText(hex);
+  alert('Copied to clipboard!');
+}
+</script>
+</body>
+</html>

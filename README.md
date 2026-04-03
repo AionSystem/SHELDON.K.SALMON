@@ -14,6 +14,9 @@
 [![DOI](https://zenodo.org/badge/1174130098.svg)](https://doi.org/10.5281/zenodo.18941392)
 [![DOI](https://zenodo.org/badge/1198800128.svg)](https://doi.org/10.5281/zenodo.19373724)
 [![DOI](https://zenodo.org/badge/1194238160.svg)](https://doi.org/10.5281/zenodo.19295266)
+[![DOI](https://zenodo.org/badge/1200586477.svg)](https://doi.org/10.5281/zenodo.19409957)
+[![DOI](https://zenodo.org/badge/1199929788.svg)](https://doi.org/10.5281/zenodo.19409945)
+
 
 [![Frameworks](https://img.shields.io/badge/Frameworks-60%2B-4B0082?style=for-the-badge&logoColor=white)]()
 [![FCL Entries](https://img.shields.io/badge/FCL_Entries-75%2B-FF6B00?style=for-the-badge&logoColor=white)]()

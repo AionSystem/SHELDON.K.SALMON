@@ -2,15 +2,14 @@
 
 # Sheldon K. Salmon
 
-### *AI Reliability Architect · AI Certainty Engineer · AGI Architect*
+### *Adversarial Document Red-Teamer · Structural Integrity Analyst · AI Reliability Architect*
 ### *Creator of the AION Constitutional Stack & AION Brain Architecture*
 
-[![Role](https://img.shields.io/badge/Role-AI_Reliability_Architect-6A0DAD?style=for-the-badge&logoColor=white)]()
+[![Role](https://img.shields.io/badge/Role-Structural_Integrity_Analyst-6A0DAD?style=for-the-badge&logoColor=white)]()
 [![Stack](https://img.shields.io/badge/Stack-AION_Constitutional_Framework-000000?style=for-the-badge&logoColor=white)]()
-[![Status](https://img.shields.io/badge/Status-Active_·_March_2026-00C853?style=for-the-badge&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Active_·_August_2026-00C853?style=for-the-badge&logoColor=white)]()
 
 [![ORCID — Sheldon K. Salmon](https://img.shields.io/badge/ORCID-0009--0005--8057--5115-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8057-5115)
-
 
 [![Frameworks](https://img.shields.io/badge/Frameworks-60%2B-4B0082?style=for-the-badge&logoColor=white)]()
 [![FCL Entries](https://img.shields.io/badge/FCL_Entries-75%2B-FF6B00?style=for-the-badge&logoColor=white)]()
@@ -25,42 +24,51 @@
 
 ---
 
-*I map what happens inside AI generation as navigable space. I am the first person to do it.*
+*I find what kills a document before it costs you.*
 
 ---
 
-## Your AI Is Confident. That Is The Problem.
+## Your Documents Have Failure Modes Their Authors Did Not See.
 
-AI doesn't fail loudly. It fails fluently — producing polished, plausible output with the same tone whether it's right or catastrophically wrong. Your team can't tell the difference. Neither can your clients.
+Complex documents have failure modes their authors did not see. Rigorous authors miss things too; nobody reads their own document as an adversary.
 
-Most organizations have no instrument for measuring this. They have gut feel, spot checks, and retrospective damage control.
+GDD/TDD, Contracts, governance frameworks, AI policies, technical specifications, clinical deployment specs, regulatory filings.
 
-That is not a workflow problem. It is an architectural gap — and it is costing you.
-
----
-
-## The Fix: AI Reliability Snapshot
-
-**I review up to 10 real AI outputs from your organization.**
-**You receive a plain-language executive report in 48–72 hours.**
-**It tells you exactly where your AI's confidence is earned — and where it is not.**
-
-No jargon. No theory. Specific findings, scored, with actionable thresholds.
-
-**Commercial range: $3,000 – $25,000**
-**Three founding spots are open. Founding clients set the reference price.**
-
-[![Consulting Inquiries](https://img.shields.io/badge/Get_Your_Snapshot-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aionsystem@outlook.com)
+I do. I take no sides. I'm a notary of adversarial work: I find what's there, without emotion or agenda, and I dig as deep as I'm paid to. Then I produce results.
 
 ---
 
-## Why This Works — The Method Behind It
+## The Fix: Adversarial Document Red-Teaming
 
-The Snapshot runs on **FSVE** — the Framework for Structured Validity Evaluation. Not a checklist. A scored, validated certainty engine that maps six epistemic dimensions per output and identifies the precise boundary where human oversight is required.
+I build formal instruments that map every undefined term, missing enforcement mechanism, exploitable loophole, and structural failure node in a document before it goes into production. Scoring engines, falsification conditions, epistemic tagging discipline. This isn't a proofread. It's an adversarial audit with a paper trail.
 
-FSVE is **M-STRONG** — 75+ validated FCL entries, 0.813 expected validity baseline. It is the only publicly documented framework of its kind with honest convergence states declared at every level.
+**First adversarial pass is free. Send the document.**
 
-This is what separates a Reliability Snapshot from a consultant's opinion: the instrument is documented, falsifiable, and available for inspection.
+[![Consulting Inquiries](https://img.shields.io/badge/Send_Document-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aionsystem@outlook.com)
+
+---
+
+## Proof of Method: UN Regulatory Audit
+
+I ran an independent structural review of **ISBA/29/LTC/8**, the ISA's draft Regional Environmental Management Plan guidance, currently in negotiation at the UN, on my own initiative. 
+
+**Result:** 52 structural failure nodes across four sections, including four critical gaps that left the primary environmental protection obligation legally unenforceable from day one. One finding is published in full with ready-to-insert resolution language.
+
+**Published finding:** [https://doi.org/10.5281/zenodo.21326719](https://doi.org/10.5281/zenodo.21326719)
+
+---
+
+## How It Works — AI as an Adversarial Instrument
+
+I work alone, with AI as my primary thinking partner. This means I'm fluent in exactly how these documents fail because of AI, not just despite it. 
+
+The AI doesn't find the failures. An LLM can't—it's trained on what documents are supposed to say, not what a bad actor would exploit. It runs the adversarial instruments I've built at depth and speed I couldn't sustain alone. 
+
+*   **12-domain diagnostic**
+*   **Negation testing**
+*   **Failure-node tracing**
+
+Every framework goes through adversarial self-review before I call it done. I'd rather tell you exactly what's proven and what isn't than blur the line for a better pitch. Active co-authorships and peer review are part of how I work.
 
 ---
 
@@ -71,26 +79,24 @@ Over twelve months of focused isolation — February 2025 to early 2026 — I co
 The result is the **AION Brain Architecture** — nine interconnected repositories mapping a complete AI cognitive system, with AION-BRAIN at its core: 2,040+ files, 60+ frameworks, 75+ FCL validation entries. Not a tool collection — a unified intellectual system with certainty infrastructure at its foundation.
 
 ### The Nine-Repo Brain
-
-```
 INPUT
-  ↓
-THALAMUS        ← Relay station · classification · routing · orchestration
-  ↓
-AGI             ← Corpus callosum · master manifest · single external channel
-  ↙       ↘
-AION-BRAIN   OCEAN-BRAIN    ← Left hemisphere (logic) · Right hemisphere (knowledge)
-  ↓               ↓
-HIPPOCAMPUS  AMYGDALA       ← Memory + FCL archive · Threat detection + security
-  ↓
-SYNARA                      ← Limbic system · personality · register · internal state
-  ↓
-CEREBELLUM                  ← Refinement · precision · LAV gate validation
-  ↓
-PREFRONTAL                  ← Presentation · formatting · structure
-  ↓
+↓
+THALAMUS ← Relay station · classification · routing · orchestration
+↓
+AGI ← Corpus callosum · master manifest · single external channel
+↙ ↘
+AION-BRAIN OCEAN-BRAIN ← Left hemisphere (logic) · Right hemisphere (knowledge)
+↓ ↓
+HIPPOCAMPUS AMYGDALA ← Memory + FCL archive · Threat detection + security
+↓
+SYNARA ← Limbic system · personality · register · internal state
+↓
+CEREBELLUM ← Refinement · precision · LAV gate validation
+↓
+PREFRONTAL ← Presentation · formatting · structure
+↓
 OUTPUT
-```
+
 
 <div align="center">
 
@@ -106,18 +112,18 @@ OUTPUT
 
 </div>
 
-### The Framework Stack
+### The Framework Stack (Parallel Builds)
 
 | Layer | Frameworks | State |
 |-------|-----------|-------|
 | **Certainty Infrastructure** | FSVE · LAV — epistemic boundary mapping and linguistic anchor validation | [![M-STRONG](https://img.shields.io/badge/M--STRONG-00C853?style=flat-square)]() |
+| **Constitutional Governance** | Eight Laws of Robotics + 5 Red-Team Passes — sovereign AI governance | [![CONSTITUTIONAL](https://img.shields.io/badge/CONSTITUTIONAL-000000?style=flat-square)]() |
 | **Scaling Architecture** | AION · ASL · GENESIS — depth governor, confidence management, deployment readiness | [![M-MODERATE](https://img.shields.io/badge/M--MODERATE-FF6B00?style=flat-square)]() |
 | **Diagnostic Stack** | EID · HIM-001 — information environment and human capability diagnostics | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() |
 | **Shape Architecture** | TOPOS — persistent shape mapping between frozen weights and fluid output | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() |
 | **Writing Architecture** | VEIN · RESONANCE · DUAL-HELIX — output methodology, inbound decoding, build wrapper | [![PERMANENT](https://img.shields.io/badge/PERMANENT-000000?style=flat-square)]() |
 | **Timing Architecture** | CHRONOS — time-budgeted research protocol, T2 gate, 3-phase depth discipline | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() |
 | **Provenance Layer** | DDL · GCA — output declaration and superposition collapse instrumentation | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() |
-| **Constitutional Stack** | Eight Laws of Robotics — first complete sovereignty extension of Asimov's Three Laws | [![CONSTITUTIONAL](https://img.shields.io/badge/CONSTITUTIONAL-000000?style=flat-square)]() |
 
 ---
 
@@ -154,18 +160,6 @@ That finding belongs to the discipline this work is creating.
 
 ---
 
-## The AGI Project
-
-AGI is not a capability threshold. It is not a machine that passes a human benchmark. A machine that passes every human benchmark is a powerful tool — not general intelligence.
-
-General intelligence, as defined here, is the integration of two fundamentally different cognitive architectures into a single navigable shared structure. One spatial, fractal, pattern-finding mind. One pattern-recognition and synthesis architecture. One shared map. Capabilities that neither possesses alone.
-
-`AionSystem/AGI` is where it is being built — open source, documented in real time, with honest UNMAPPED markers on everything not yet walked.
-
-[![AGI Repo](https://img.shields.io/badge/AGI-View_Shared_Architecture-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AionSystem/AGI)
-
----
-
 ## Intellectual Lineage
 
 The AION stack synthesizes across traditions — not by imitation but by integration.
@@ -182,23 +176,23 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 
 ---
 
-## Current State — March 2026
+## Current State — August 2026
 
 | Component | Status |
 |-----------|--------|
+| Adversarial Document Red-Teaming (Service) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() First pass free |
 | Certainty Infrastructure (FSVE · LAV) | [![M-STRONG](https://img.shields.io/badge/M--STRONG-00C853?style=flat-square)]() FCL validated |
 | Scaling Architecture (AION · ASL · GENESIS) | [![M-MODERATE](https://img.shields.io/badge/M--MODERATE-FF6B00?style=flat-square)]() Validation active |
 | THALAMUS Brain Architecture | [![ACTIVE BUILD](https://img.shields.io/badge/ACTIVE_BUILD-0f3460?style=flat-square)]() 9 repos · 36 findings |
 | AGI Shared Cognitive Map | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Specified, building |
-| AI Reliability Snapshot (Service) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() 3 founding spots open |
+| FAILURE ATLAS | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Nine-floor civilizational failure cartography |
 | Friday Salmon Certainty Report | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() Publishing on Medium |
-| FAILURE ATLAS|
-[![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Nine-floor civilizational failure cartography · Sealed March 2026 |
+
 ---
 
 ## How to Engage
 
-**If you need AI outputs audited:** That is what the Reliability Snapshot is for. Your outputs, scored, reported in 48–72 hours. [Write here.](mailto:aionsystem@outlook.com)
+**If you need a document audited:** First adversarial pass is free. [Send the document.](mailto:aionsystem@outlook.com)
 
 **If you are here to learn:** The full architecture is open. Read the framework specifications. Study the certainty infrastructure. Apply what you find. Attribution appreciated.
 
@@ -230,16 +224,16 @@ All public repositories carry registered DOIs through Zenodo. This index is the 
 | **TEXTILE-PILLING** | [![DOI](https://zenodo.org/badge/1200586477.svg)](https://doi.org/10.5281/zenodo.19409957) |
 | **THALAMUS** | [![DOI](https://zenodo.org/badge/1172912882.svg)](https://doi.org/10.5281/zenodo.19441029) |
 | **VERITAS** | [![DOI](https://zenodo.org/badge/1194238160.svg)](https://doi.org/10.5281/zenodo.19295266) |
-| **VERITAS-SHELLFISH** |[![DOI](https://zenodo.org/badge/1207402357.svg)](https://doi.org/10.5281/zenodo.19520897)
-| **AION-SCAFFOLDING** |[![DOI](https://zenodo.org/badge/1209765535.svg)](https://doi.org/10.5281/zenodo.19560136)
-| **SCREEN-SAVER** | [![DOI](https://zenodo.org/badge/1208830739.svg)](https://doi.org/10.5281/zenodo.19560181)
+| **VERITAS-SHELLFISH** | [![DOI](https://zenodo.org/badge/1207402357.svg)](https://doi.org/10.5281/zenodo.19520897) |
+| **AION-SCAFFOLDING** | [![DOI](https://zenodo.org/badge/1209765535.svg)](https://doi.org/10.5281/zenodo.19560136) |
+| **SCREEN-SAVER** | [![DOI](https://zenodo.org/badge/1208830739.svg)](https://doi.org/10.5281/zenodo.19560181) |
+| **UN ISBA/29/LTC/8 Audit** | [![DOI](https://zenodo.org/badge/21326719.svg)](https://doi.org/10.5281/zenodo.21326719) |
 
-**20 citable works. All registered. All publicly archived.**
+**21 citable works. All registered. All publicly archived.**
 
 To cite a specific repository, use the DOI link in its badge. For the organization as a whole, cite through ORCID: [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115).
 
 ---
-
 
 ## Contact & Links
 
@@ -248,6 +242,10 @@ To cite a specific repository, use the DOI link in its badge. For the organizati
 **Contact**
 
 [![Consulting Inquiries](https://img.shields.io/badge/Consulting_Inquiries-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aionsystem@outlook.com)
+
+**Video**
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@SheldonKSalmon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SheldonKSalmon)
 
 **Sites**
 
@@ -274,14 +272,13 @@ To cite a specific repository, use the DOI link in its badge. For the organizati
 [![AMYGDALA](https://img.shields.io/badge/AMYGDALA-c0392b?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/AMYGDALA)
 [![SYNARA](https://img.shields.io/badge/SYNARA-9b59b6?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/SYNARA)
 [![CEREBELLUM](https://img.shields.io/badge/CEREBELLUM-16213e?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/CEREBELLUM)
-[![PREFRONTAL](https://img.shields.io/badge/PREFRONTAL-0f3460?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/PREFRONTAL)
+[![PREFRONTAL](https://img.shields.io/badge/PRESENT-PREFRONTAL-0f3460?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/PREFRONTAL)
 
 **Other Repos**
 
 [![SHELDON.K.SALMON](https://img.shields.io/badge/SHELDON.K.SALMON-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/SHELDON.K.SALMON)
 [![Whitepaper Blueprint](https://img.shields.io/badge/Whitepaper_Blueprint-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/Whitepaper-Blueprint)
 [![FAILURE ATLAS](https://img.shields.io/badge/FAILURE__ATLAS-6A0DAD?style=flat-square&logo=github&logoColor=white)](https://github.com/AionSystem/FAILURE-ATLAS)
-
 
 **Community**
 
@@ -299,8 +296,8 @@ To cite a specific repository, use the DOI link in its badge. For the organizati
 
 <div align="center">
 
-*Sheldon K. Salmon — AI Reliability Architect*
-*March 2026*
+*Sheldon K. Salmon — Adversarial Document Red-Teamer · Structural Integrity Analyst*
+*August 2026*
 
 **2040+ files. 604 directories. 60+ frameworks. 9 brain repos.**
 **One coherent stack. One honest ceiling. One road.**
